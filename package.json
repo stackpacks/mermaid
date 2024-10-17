@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-    "dev": "live-server ."
+    "dev": "live-server --no-browser ."
   },
   "dependencies": {
     "live-server": "^1.2.2"

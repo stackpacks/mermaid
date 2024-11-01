@@ -1,4 +1,6 @@
 {
+  "name": "Mermaid Diagrams",
+  "description": "Generate Mermaid diagrams from text.",
   "prepare": "npm install",
   "preview": {
     "command": "npm run dev"
